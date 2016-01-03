@@ -11,6 +11,6 @@ The easiest way to save your image to the camera roll.
 Name of the album you can change here:
 
 ```swift
-   VPCameraCustomAlbum -> static let albumName = "YOUR-ALBUM-NAME"
+   VPCameraCustomAlbum.swift -> static let albumName = "YOUR-ALBUM-NAME"
 ```
 
